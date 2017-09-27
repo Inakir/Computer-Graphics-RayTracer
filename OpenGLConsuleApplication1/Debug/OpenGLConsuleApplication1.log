@@ -1,0 +1,27 @@
+﻿  ScanConvert.cpp
+c:\users\inaki\documents\visual studio 2015\projects\hw5\openglconsuleapplication1\polygondrawer.h(192): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\inaki\documents\visual studio 2015\projects\hw5\openglconsuleapplication1\polygondrawer.h(270): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\inaki\documents\visual studio 2015\projects\hw5\openglconsuleapplication1\scanconvert.cpp(40): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\inaki\documents\visual studio 2015\projects\hw5\openglconsuleapplication1\scanconvert.cpp(208): warning C4018: '<': signed/unsigned mismatch
+c:\users\inaki\documents\visual studio 2015\projects\hw5\openglconsuleapplication1\scanconvert.cpp(217): warning C4804: '<': unsafe use of type 'bool' in operation
+c:\users\inaki\documents\visual studio 2015\projects\hw5\openglconsuleapplication1\scanconvert.cpp(223): warning C4018: '<': signed/unsigned mismatch
+c:\users\inaki\documents\visual studio 2015\projects\hw5\openglconsuleapplication1\scanconvert.cpp(232): warning C4804: '<': unsafe use of type 'bool' in operation
+c:\users\inaki\documents\visual studio 2015\projects\hw5\openglconsuleapplication1\scanconvert.cpp(238): warning C4018: '<': signed/unsigned mismatch
+c:\users\inaki\documents\visual studio 2015\projects\hw5\openglconsuleapplication1\scanconvert.cpp(247): warning C4804: '<': unsafe use of type 'bool' in operation
+c:\users\inaki\documents\visual studio 2015\projects\hw5\openglconsuleapplication1\scanconvert.cpp(289): warning C4305: '=': truncation from 'int' to 'float'
+c:\users\inaki\documents\visual studio 2015\projects\hw5\openglconsuleapplication1\scanconvert.cpp(290): warning C4018: '<': signed/unsigned mismatch
+c:\users\inaki\documents\visual studio 2015\projects\hw5\openglconsuleapplication1\scanconvert.cpp(312): warning C4018: '<': signed/unsigned mismatch
+c:\users\inaki\documents\visual studio 2015\projects\hw5\openglconsuleapplication1\scanconvert.cpp(333): warning C4018: '<': signed/unsigned mismatch
+c:\users\inaki\documents\visual studio 2015\projects\hw5\openglconsuleapplication1\scanconvert.cpp(354): warning C4018: '<': signed/unsigned mismatch
+c:\users\inaki\documents\visual studio 2015\projects\hw5\openglconsuleapplication1\scanconvert.cpp(414): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\inaki\documents\visual studio 2015\projects\hw5\openglconsuleapplication1\scanconvert.cpp(452): warning C4018: '<': signed/unsigned mismatch
+c:\users\inaki\documents\visual studio 2015\projects\hw5\openglconsuleapplication1\scanconvert.cpp(474): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\inaki\documents\visual studio 2015\projects\hw5\openglconsuleapplication1\scanconvert.cpp(500): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\inaki\documents\visual studio 2015\projects\hw5\openglconsuleapplication1\scanconvert.cpp(502): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\inaki\documents\visual studio 2015\projects\hw5\openglconsuleapplication1\scanconvert.cpp(505): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\inaki\documents\visual studio 2015\projects\hw5\openglconsuleapplication1\scanconvert.cpp(506): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\inaki\documents\visual studio 2015\projects\hw5\openglconsuleapplication1\scanconvert.cpp(549): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\inaki\documents\visual studio 2015\projects\hw5\openglconsuleapplication1\scanconvert.cpp(551): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\inaki\documents\visual studio 2015\projects\hw5\openglconsuleapplication1\scanconvert.cpp(554): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\inaki\documents\visual studio 2015\projects\hw5\openglconsuleapplication1\scanconvert.cpp(555): warning C4305: 'argument': truncation from 'double' to 'float'
+  OpenGLConsuleApplication1.vcxproj -> C:\Users\Inaki\Documents\Visual Studio 2015\Projects\HW5\Debug\OpenGLConsuleApplication1.exe
